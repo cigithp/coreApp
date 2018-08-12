@@ -1,0 +1,2 @@
+# coreApp
+core app
